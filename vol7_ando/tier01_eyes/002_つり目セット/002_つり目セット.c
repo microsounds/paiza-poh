@@ -1,7 +1,7 @@
 /* Paiza Online Hackathon Vol. 7 */
 /* https://paiza.jp/poh/ando */
 /* Tier 01: Eyes */
-/* No. 1 */
+/* Challenge 2 */
 /* つり目セット */
 /* paizaランクD相当問題 */
 /* take N from stdin, print "Ann" N times */
